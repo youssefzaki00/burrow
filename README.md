@@ -31,7 +31,7 @@ Steps
 Open your terminal and run:
 
 ```markdown
-git clone [](https://github.com/yourusername/burrow.git)
+git clone https://github.com/yourusername/burrow.git
 ```
 
 Navigate to the Project Directory
