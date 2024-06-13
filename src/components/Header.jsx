@@ -25,7 +25,7 @@ function Header() {
         <img src={menu} alt="menu" />
       </button>
       <h1 className="text-xl md:text-2xl lg:text-3xl font-semibold text-[#383633]">
-        <Link to="/">Momentum Solution</Link>
+        <Link to="/">Burrow</Link>
       </h1>
       <ul
         className={`${
